@@ -47,7 +47,7 @@ The output is formatted so that all of the colons are in a line with respect to 
   ...
   your         :   7
 
-<!-- WHAT I USED TOO CODE -->
+<!-- WHAT I USED TO CODE -->
 ## What I Used to Code
 
 I used EdLab Linux machines given by my college for this and all projects in this class. The programming language used is C.
