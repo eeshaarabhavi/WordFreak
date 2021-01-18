@@ -38,15 +38,6 @@ The code has to be able to take inputs in three different ways after calling "./
 
 The output is formatted so that all of the colons are in a line with respect to the largest word in the file. The output is also printed to a file called "output.txt" which when "cat output.txt" is called, will be printed to the terminal. The words should be printed in alphabetical order. Below is a sample output:
 ![Screen Shot 2021-01-18 at 12 39 30 PM](https://user-images.githubusercontent.com/56767468/104947771-3f762b80-598a-11eb-9918-e38f90485bc7.png)
-  $ ./wordfreak aladdin.txt
-  $ cat output.txt
-  a            :  49
-  ...
-  respectfully :   1
-  ...
-  the          : 126
-  ...
-  your         :   7
 
 <!-- WHAT I USED TO CODE -->
 ## What I Used to Code
