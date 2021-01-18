@@ -3,7 +3,7 @@
 <!-- FILES INCLUDED -->
 ## Files Included in Project
   - main.c
-      - holds the main funciton and its supporting functions
+      - holds the main function and its supporting functions
   - bst.c
       - holds the functions that support the bst
   - bst.h
